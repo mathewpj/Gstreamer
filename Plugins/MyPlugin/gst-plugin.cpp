@@ -1,4 +1,4 @@
-/****************************************************
+/*************************************************************************
 * 
 * Program to use a sample plugin
 *
@@ -8,10 +8,13 @@
 * gcc gst-plugin.cpp -o plugin \
 *     `pkg-config --cflags --libs gstreamer-1.0
 *
-* Aint sure of the license... You are free to reach 
+* - aint sure of the license... You are free to reach 
 * me: Mathew P Joseph @ mathew.p.joseph@gmail.com
+* 
+* - plugin needs to be built from 
+* git clone git://anongit.freedesktop.org/gstreamer/gst-template.git
 *
-*****************************************************/
+*************************************************************************/
 
 
 # include <gst/gst.h>
