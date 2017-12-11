@@ -1,2 +1,7 @@
 # Gstreamer
-Gstreamer related project
+Gstreamer related projects
+
+Plugins : Folder for gstreamer plugin projects
+
+
+
